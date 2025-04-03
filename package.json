@@ -1,0 +1,25 @@
+{
+  "name": "@username/design-system-test",
+  "version": "0.0.1",
+  "description": "It's me username",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "polent": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/design-system-test.git"
+  },
+  "keywords": [
+    "design-system-test"
+  ],
+  "author": "Firstname Lastname",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/username/design-system-test/issues"
+  },
+  "homepage": "https://github.com/username/design-system-test#readme"
+}
