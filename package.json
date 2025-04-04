@@ -1,7 +1,7 @@
 {
-  "name": "@username/design-system-test",
+  "name": "@ymidey/design-system-test",
   "version": "0.0.1",
-  "description": "It's me username",
+  "description": "It's me ymidey",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/username/design-system-test.git"
+    "url": "git+https://github.com/ymidey/design-system-test.git"
   },
   "keywords": [
     "design-system-test"
   ],
-  "author": "Firstname Lastname",
+  "author": "ymidey ymidey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/username/design-system-test/issues"
+    "url": "https://github.com/ymidey/design-system-test/issues"
   },
-  "homepage": "https://github.com/username/design-system-test#readme"
+  "homepage": "https://github.com/ymidey/design-system-test#readme"
 }
